@@ -1,11 +1,11 @@
 ---
 title: Projektstrukturplan
-tags: agil klassisch
+tags: klassisch
 author: Angie4321
-anrechnung: k oder a
+anrechnung: k
 ---
 
-Kurzbeschreibung zu Projektstrukturplan um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Kurzbeschreibung zu Projektskturplan um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
