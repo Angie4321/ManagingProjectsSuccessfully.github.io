@@ -1,14 +1,11 @@
 ---
 title: Projektstrukturplan
-tags: agil klassisch
+tags: klassisch
 author: Angie4321
-anrechnung: k oder a
----
+anrechnung: k 
 
-Kurzbeschreibung zu Projektstrukturplan um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Eines der wichtigsten Dokumente für das Projektmanagement, wenn nicht sogar die wichtigste Projektmanagement-Methode stellt der Projektstrukturplan dar. Doch was genau bezweckt ein Projektstrukturplan, wie wird er aufgebaut und was beinhaltet er? 
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
 
 # Hier ein Beispieltext mit ein paar Verlinkungen
 
