@@ -4,7 +4,6 @@ tags: klassisch
 author: Angie4321
 anrechnung: k 
 ---
-# Der Projektstrukturplan
 
 Eines der wichtigsten Dokumente für das Projektmanagement, wenn nicht sogar die wichtigste Projektmanagement-Methode, stellt der Projektstrukturplan dar. Doch was genau bezweckt ein Projektstrukturplan, wie wird er aufgebaut und was beinhaltet er?
 
@@ -46,12 +45,12 @@ Nun zu den großen Vorteilen des Projektstrukturplanes. Er gibt eine sehr gute �
 
 # Siehe auch
 
-* [ManagingProjectsSuccessfully.github.io/kb/Projektmanagement.md](Projektmanagement.md) 
-* [ManagingProjectsSuccessfully.github.io/kb/Projektarten.md](Projektarten.md)
-* [ManagingProjectsSuccessfully.github.io/kb/Projekthandbuch.md](Projekthandbuch.md)
-* [ManagingProjectsSuccessfully.github.io/kb/Projektstart.md](Projektstart.md)
-* [ManagingProjectsSuccessfully.github.io/kb/Projektphasen_klassisch.md](Projektphasen_klassisch.md)
-* [ManagingProjectsSuccessfully.github.io/kb/Projektplanung.md](Projektplanung.md) 
+* [Projektmanagement](Projektmanagement.md) 
+* [Projektarten](Projektarten.md)
+* [Projekthandbuch](Projekthandbuch.md)
+* [Projektstart](Projektstart.md)
+* [Projektphasen_klassisch](Projektphasen_klassisch.md)
+* [Projektplanung](Projektplanung.md) 
 
 # Weiterführende Literatur
 
